@@ -1,0 +1,602 @@
+[
+  {
+    "timestamp": "2025-04-19T14:21:07.789307+00:00",
+    "sensor_id": 0,
+    "type": "Temperature",
+    "value": 37.7
+  },
+  {
+    "timestamp": "2025-04-19T14:21:07.789413+00:00",
+    "sensor_id": 1,
+    "type": "Pressure",
+    "value": 934.64
+  },
+  {
+    "timestamp": "2025-04-19T14:21:07.789524+00:00",
+    "sensor_id": 2,
+    "type": "Humidity",
+    "value": 72.5
+  },
+  {
+    "timestamp": "2025-04-19T14:21:07.789690+00:00",
+    "sensor_id": 3,
+    "type": "Motion",
+    "value": 0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:07.789850+00:00",
+    "sensor_id": 4,
+    "type": "Light",
+    "value": 467.0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:07.789941+00:00",
+    "sensor_id": 5,
+    "type": "Sound",
+    "value": 108.9
+  },
+  {
+    "timestamp": "2025-04-19T14:21:07.790144+00:00",
+    "sensor_id": 6,
+    "type": "Gas",
+    "value": 2.41
+  },
+  {
+    "timestamp": "2025-04-19T14:21:07.790272+00:00",
+    "sensor_id": 7,
+    "type": "Vibration",
+    "value": 4.76
+  },
+  {
+    "timestamp": "2025-04-19T14:21:07.790465+00:00",
+    "sensor_id": 8,
+    "type": "CO2",
+    "value": 519.8
+  },
+  {
+    "timestamp": "2025-04-19T14:21:07.790546+00:00",
+    "sensor_id": 9,
+    "type": "Proximity",
+    "value": 3
+  },
+  {
+    "timestamp": "2025-04-19T14:21:08.789793+00:00",
+    "sensor_id": 0,
+    "type": "Temperature",
+    "value": 20.9
+  },
+  {
+    "timestamp": "2025-04-19T14:21:08.790027+00:00",
+    "sensor_id": 1,
+    "type": "Pressure",
+    "value": 1094.69
+  },
+  {
+    "timestamp": "2025-04-19T14:21:08.790214+00:00",
+    "sensor_id": 5,
+    "type": "Sound",
+    "value": 98.0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:08.790534+00:00",
+    "sensor_id": 3,
+    "type": "Motion",
+    "value": 1
+  },
+  {
+    "timestamp": "2025-04-19T14:21:08.791344+00:00",
+    "sensor_id": 2,
+    "type": "Humidity",
+    "value": 44.6
+  },
+  {
+    "timestamp": "2025-04-19T14:21:08.791693+00:00",
+    "sensor_id": 7,
+    "type": "Vibration",
+    "value": 3.48
+  },
+  {
+    "timestamp": "2025-04-19T14:21:08.791978+00:00",
+    "sensor_id": 8,
+    "type": "CO2",
+    "value": 446.7
+  },
+  {
+    "timestamp": "2025-04-19T14:21:08.792315+00:00",
+    "sensor_id": 9,
+    "type": "Proximity",
+    "value": 0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:08.792622+00:00",
+    "sensor_id": 4,
+    "type": "Light",
+    "value": 191.5
+  },
+  {
+    "timestamp": "2025-04-19T14:21:08.793254+00:00",
+    "sensor_id": 6,
+    "type": "Gas",
+    "value": 7.29
+  },
+  {
+    "timestamp": "2025-04-19T14:21:09.791419+00:00",
+    "sensor_id": 0,
+    "type": "Temperature",
+    "value": 28.3
+  },
+  {
+    "timestamp": "2025-04-19T14:21:09.792231+00:00",
+    "sensor_id": 1,
+    "type": "Pressure",
+    "value": 1083.86
+  },
+  {
+    "timestamp": "2025-04-19T14:21:09.793423+00:00",
+    "sensor_id": 3,
+    "type": "Motion",
+    "value": 1
+  },
+  {
+    "timestamp": "2025-04-19T14:21:09.793756+00:00",
+    "sensor_id": 2,
+    "type": "Humidity",
+    "value": 50.3
+  },
+  {
+    "timestamp": "2025-04-19T14:21:09.794020+00:00",
+    "sensor_id": 7,
+    "type": "Vibration",
+    "value": 4.33
+  },
+  {
+    "timestamp": "2025-04-19T14:21:09.794245+00:00",
+    "sensor_id": 9,
+    "type": "Proximity",
+    "value": 2
+  },
+  {
+    "timestamp": "2025-04-19T14:21:09.794482+00:00",
+    "sensor_id": 4,
+    "type": "Light",
+    "value": 868.5
+  },
+  {
+    "timestamp": "2025-04-19T14:21:09.794681+00:00",
+    "sensor_id": 6,
+    "type": "Gas",
+    "value": 5.28
+  },
+  {
+    "timestamp": "2025-04-19T14:21:09.794993+00:00",
+    "sensor_id": 8,
+    "type": "CO2",
+    "value": 308.8
+  },
+  {
+    "timestamp": "2025-04-19T14:21:09.795609+00:00",
+    "sensor_id": 5,
+    "type": "Sound",
+    "value": 37.4
+  },
+  {
+    "timestamp": "2025-04-19T14:21:10.792170+00:00",
+    "sensor_id": 0,
+    "type": "Temperature",
+    "value": 27.2
+  },
+  {
+    "timestamp": "2025-04-19T14:21:10.792639+00:00",
+    "sensor_id": 1,
+    "type": "Pressure",
+    "value": 1001.93
+  },
+  {
+    "timestamp": "2025-04-19T14:21:10.793796+00:00",
+    "sensor_id": 3,
+    "type": "Motion",
+    "value": 1
+  },
+  {
+    "timestamp": "2025-04-19T14:21:10.794080+00:00",
+    "sensor_id": 2,
+    "type": "Humidity",
+    "value": 70.8
+  },
+  {
+    "timestamp": "2025-04-19T14:21:10.794425+00:00",
+    "sensor_id": 7,
+    "type": "Vibration",
+    "value": 2.06
+  },
+  {
+    "timestamp": "2025-04-19T14:21:10.795618+00:00",
+    "sensor_id": 9,
+    "type": "Proximity",
+    "value": 1
+  },
+  {
+    "timestamp": "2025-04-19T14:21:10.795933+00:00",
+    "sensor_id": 4,
+    "type": "Light",
+    "value": 482.6
+  },
+  {
+    "timestamp": "2025-04-19T14:21:10.796165+00:00",
+    "sensor_id": 8,
+    "type": "CO2",
+    "value": 602.9
+  },
+  {
+    "timestamp": "2025-04-19T14:21:10.796382+00:00",
+    "sensor_id": 5,
+    "type": "Sound",
+    "value": 38.2
+  },
+  {
+    "timestamp": "2025-04-19T14:21:10.796630+00:00",
+    "sensor_id": 6,
+    "type": "Gas",
+    "value": 2.9
+  },
+  {
+    "timestamp": "2025-04-19T14:21:11.792660+00:00",
+    "sensor_id": 0,
+    "type": "Temperature",
+    "value": 27.7
+  },
+  {
+    "timestamp": "2025-04-19T14:21:11.793117+00:00",
+    "sensor_id": 1,
+    "type": "Pressure",
+    "value": 998.77
+  },
+  {
+    "timestamp": "2025-04-19T14:21:11.794259+00:00",
+    "sensor_id": 3,
+    "type": "Motion",
+    "value": 0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:11.794550+00:00",
+    "sensor_id": 2,
+    "type": "Humidity",
+    "value": 71.2
+  },
+  {
+    "timestamp": "2025-04-19T14:21:11.795177+00:00",
+    "sensor_id": 7,
+    "type": "Vibration",
+    "value": 2.35
+  },
+  {
+    "timestamp": "2025-04-19T14:21:11.796348+00:00",
+    "sensor_id": 9,
+    "type": "Proximity",
+    "value": 0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:11.797254+00:00",
+    "sensor_id": 4,
+    "type": "Light",
+    "value": 687.8
+  },
+  {
+    "timestamp": "2025-04-19T14:21:11.797537+00:00",
+    "sensor_id": 6,
+    "type": "Gas",
+    "value": 9.27
+  },
+  {
+    "timestamp": "2025-04-19T14:21:11.798038+00:00",
+    "sensor_id": 5,
+    "type": "Sound",
+    "value": 118.5
+  },
+  {
+    "timestamp": "2025-04-19T14:21:11.798506+00:00",
+    "sensor_id": 8,
+    "type": "CO2",
+    "value": 562.5
+  },
+  {
+    "timestamp": "2025-04-19T14:21:12.793154+00:00",
+    "sensor_id": 0,
+    "type": "Temperature",
+    "value": 29.6
+  },
+  {
+    "timestamp": "2025-04-19T14:21:12.793822+00:00",
+    "sensor_id": 1,
+    "type": "Pressure",
+    "value": 919.55
+  },
+  {
+    "timestamp": "2025-04-19T14:21:12.795118+00:00",
+    "sensor_id": 3,
+    "type": "Motion",
+    "value": 1
+  },
+  {
+    "timestamp": "2025-04-19T14:21:12.795681+00:00",
+    "sensor_id": 2,
+    "type": "Humidity",
+    "value": 55.8
+  },
+  {
+    "timestamp": "2025-04-19T14:21:12.795914+00:00",
+    "sensor_id": 7,
+    "type": "Vibration",
+    "value": 2.93
+  },
+  {
+    "timestamp": "2025-04-19T14:21:12.796752+00:00",
+    "sensor_id": 9,
+    "type": "Proximity",
+    "value": 3
+  },
+  {
+    "timestamp": "2025-04-19T14:21:12.798709+00:00",
+    "sensor_id": 4,
+    "type": "Light",
+    "value": 487.9
+  },
+  {
+    "timestamp": "2025-04-19T14:21:12.798969+00:00",
+    "sensor_id": 6,
+    "type": "Gas",
+    "value": 9.47
+  },
+  {
+    "timestamp": "2025-04-19T14:21:12.799259+00:00",
+    "sensor_id": 5,
+    "type": "Sound",
+    "value": 37.3
+  },
+  {
+    "timestamp": "2025-04-19T14:21:12.799577+00:00",
+    "sensor_id": 8,
+    "type": "CO2",
+    "value": 327.4
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.793526+00:00",
+    "sensor_id": 0,
+    "type": "Temperature",
+    "value": 20.4
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.794145+00:00",
+    "sensor_id": 1,
+    "type": "Pressure",
+    "value": 943.19
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.795313+00:00",
+    "sensor_id": 3,
+    "type": "Motion",
+    "value": 0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.796307+00:00",
+    "sensor_id": 2,
+    "type": "Humidity",
+    "value": 39.6
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.796528+00:00",
+    "sensor_id": 7,
+    "type": "Vibration",
+    "value": 4.49
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.796982+00:00",
+    "sensor_id": 9,
+    "type": "Proximity",
+    "value": 5
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.799055+00:00",
+    "sensor_id": 4,
+    "type": "Light",
+    "value": 511.1
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.799423+00:00",
+    "sensor_id": 6,
+    "type": "Gas",
+    "value": 2.52
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.799735+00:00",
+    "sensor_id": 5,
+    "type": "Sound",
+    "value": 119.7
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.799962+00:00",
+    "sensor_id": 8,
+    "type": "CO2",
+    "value": 649.7
+  },
+  {
+    "timestamp": "2025-04-19T14:21:14.794028+00:00",
+    "sensor_id": 0,
+    "type": "Temperature",
+    "value": 39.2
+  },
+  {
+    "timestamp": "2025-04-19T14:21:14.794855+00:00",
+    "sensor_id": 1,
+    "type": "Pressure",
+    "value": 1050.99
+  },
+  {
+    "timestamp": "2025-04-19T14:21:14.795550+00:00",
+    "sensor_id": 3,
+    "type": "Motion",
+    "value": 1
+  },
+  {
+    "timestamp": "2025-04-19T14:21:14.796687+00:00",
+    "sensor_id": 2,
+    "type": "Humidity",
+    "value": 58.5
+  },
+  {
+    "timestamp": "2025-04-19T14:21:14.796955+00:00",
+    "sensor_id": 7,
+    "type": "Vibration",
+    "value": 4.5
+  },
+  {
+    "timestamp": "2025-04-19T14:21:14.797145+00:00",
+    "sensor_id": 9,
+    "type": "Proximity",
+    "value": 3
+  },
+  {
+    "timestamp": "2025-04-19T14:21:14.799589+00:00",
+    "sensor_id": 4,
+    "type": "Light",
+    "value": 631.2
+  },
+  {
+    "timestamp": "2025-04-19T14:21:14.799879+00:00",
+    "sensor_id": 6,
+    "type": "Gas",
+    "value": 0.52
+  },
+  {
+    "timestamp": "2025-04-19T14:21:14.800117+00:00",
+    "sensor_id": 5,
+    "type": "Sound",
+    "value": 71.9
+  },
+  {
+    "timestamp": "2025-04-19T14:21:14.800347+00:00",
+    "sensor_id": 8,
+    "type": "CO2",
+    "value": 687.5
+  },
+  {
+    "timestamp": "2025-04-19T14:21:15.794576+00:00",
+    "sensor_id": 0,
+    "type": "Temperature",
+    "value": 29.1
+  },
+  {
+    "timestamp": "2025-04-19T14:21:15.795096+00:00",
+    "sensor_id": 1,
+    "type": "Pressure",
+    "value": 1081.57
+  },
+  {
+    "timestamp": "2025-04-19T14:21:15.795797+00:00",
+    "sensor_id": 3,
+    "type": "Motion",
+    "value": 0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:15.797096+00:00",
+    "sensor_id": 2,
+    "type": "Humidity",
+    "value": 47.1
+  },
+  {
+    "timestamp": "2025-04-19T14:21:15.797655+00:00",
+    "sensor_id": 7,
+    "type": "Vibration",
+    "value": 2.46
+  },
+  {
+    "timestamp": "2025-04-19T14:21:15.797913+00:00",
+    "sensor_id": 9,
+    "type": "Proximity",
+    "value": 0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:15.800093+00:00",
+    "sensor_id": 4,
+    "type": "Light",
+    "value": 958.7
+  },
+  {
+    "timestamp": "2025-04-19T14:21:15.800389+00:00",
+    "sensor_id": 6,
+    "type": "Gas",
+    "value": 5.09
+  },
+  {
+    "timestamp": "2025-04-19T14:21:15.800702+00:00",
+    "sensor_id": 5,
+    "type": "Sound",
+    "value": 105.9
+  },
+  {
+    "timestamp": "2025-04-19T14:21:15.800880+00:00",
+    "sensor_id": 8,
+    "type": "CO2",
+    "value": 536.9
+  },
+  {
+    "timestamp": "2025-04-19T14:21:16.795278+00:00",
+    "sensor_id": 0,
+    "type": "Temperature",
+    "value": 30.6
+  },
+  {
+    "timestamp": "2025-04-19T14:21:16.795573+00:00",
+    "sensor_id": 1,
+    "type": "Pressure",
+    "value": 1043.03
+  },
+  {
+    "timestamp": "2025-04-19T14:21:16.796066+00:00",
+    "sensor_id": 3,
+    "type": "Motion",
+    "value": 1
+  },
+  {
+    "timestamp": "2025-04-19T14:21:16.797568+00:00",
+    "sensor_id": 2,
+    "type": "Humidity",
+    "value": 54.0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:16.797999+00:00",
+    "sensor_id": 7,
+    "type": "Vibration",
+    "value": 1.81
+  },
+  {
+    "timestamp": "2025-04-19T14:21:16.798190+00:00",
+    "sensor_id": 9,
+    "type": "Proximity",
+    "value": 0
+  },
+  {
+    "timestamp": "2025-04-19T14:21:16.800647+00:00",
+    "sensor_id": 4,
+    "type": "Light",
+    "value": 516.7
+  },
+  {
+    "timestamp": "2025-04-19T14:21:16.800964+00:00",
+    "sensor_id": 6,
+    "type": "Gas",
+    "value": 8.16
+  },
+  {
+    "timestamp": "2025-04-19T14:21:16.801389+00:00",
+    "sensor_id": 5,
+    "type": "Sound",
+    "value": 97.2
+  },
+  {
+    "timestamp": "2025-04-19T14:21:16.801787+00:00",
+    "sensor_id": 8,
+    "type": "CO2",
+    "value": 549.8
+  }
+]
